@@ -1,0 +1,89 @@
+*{
+margin: 0;
+padding: 0;
+}
+body{
+  background-color: #fdf2e9;
+  text-align: center;
+  font-size: 20px;
+  max-width: 100%;
+  line-height: 1;
+  font-weight: bold;
+  align-items: baseline;
+  font-family: "Rubik", sans-serif;
+  color: #555;
+}
+/* navbar section */
+nav{
+  display: flex;
+  justify-content: space-between;
+  padding: 5%;
+}
+/* images */
+img{
+  position: absolute;
+  align-items: flex-end;
+  height: 35rem;
+  width: 40%;
+  margin-left: 52%;
+}
+
+a{
+  padding-left: 40px;
+  padding-right: 20px;
+  color: black;
+
+}
+h2{
+  text-align: justify;
+  font-size: 45px;
+  width: 35%;
+  margin: 35px 40px;
+  line-height: 2.7rem;
+  color: black;
+  text-align: left;
+}
+h3{
+  padding-top: 20px;
+  color: black;
+}
+p{
+text-align: left;
+width: 40%;
+line-height: 2rem;
+margin: 30px 40px;
+}
+/* button */
+button{
+  padding: 15px;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #e67e22;
+    color: #fff;
+    border-radius: 13px;
+    border: 0;
+}
+.down-btn{
+  margin-right: 10px;
+}
+.btn-down{
+  margin-right: 70%;
+}
+#btn-special{
+  color: black;
+  background-color: white;
+
+}
+.ntn_sec{
+  justify-content: space-between;
+}
+.bdy{
+  margin: 40px;
+  display: grid;
+}
+.hero-writeup{
+position: relative;
+}
+.fav{
+  color: gold;
+}
